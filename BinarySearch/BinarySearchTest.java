@@ -1,3 +1,4 @@
+package BinarySearch;
 
 /*********************
  * Test class for 704. Binary Search

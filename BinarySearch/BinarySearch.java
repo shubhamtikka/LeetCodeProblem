@@ -1,3 +1,5 @@
+package BinarySearch;
+
 /*******************
  * 704. Binary Search
  * Given an array of integers nums which is sorted in ascending order, and an
