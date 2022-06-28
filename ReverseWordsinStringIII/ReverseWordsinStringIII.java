@@ -10,7 +10,7 @@ public class ReverseWordsinStringIII {
             reverseWordsStringBuilder.append(' ');
         }
         // delete extra appended space
-        reverseWordsStringBuilder.deleteCharAt(sArray.length);
+        reverseWordsStringBuilder.deleteCharAt(s.length());
         return reverseWordsStringBuilder.toString();
     }
 
