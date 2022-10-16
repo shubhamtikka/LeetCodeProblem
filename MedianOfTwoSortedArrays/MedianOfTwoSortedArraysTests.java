@@ -16,7 +16,7 @@ public class MedianOfTwoSortedArraysTests {
 
         double expected = 2;
         double actual = obj.findMedianSortedArrays(nums1, nums2);
-        System.out.println(actual);
+
         assertEquals(expected, actual, epsilon);
     }
 
