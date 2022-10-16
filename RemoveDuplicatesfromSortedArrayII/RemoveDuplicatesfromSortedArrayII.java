@@ -8,8 +8,6 @@
  */
 package RemoveDuplicatesfromSortedArrayII;
 
-import java.util.Arrays;
-
 class RemoveDuplicatesfromSortedArrayII {
 
     public int removeDuplicates(int[] nums) {
