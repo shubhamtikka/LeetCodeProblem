@@ -32,7 +32,7 @@ public class MedianOfTwoSortedArrays {
             } else if (L2 > R1) {
                 hi = mid2 - 1;
             } else {
-                System.out.println("L1: " + L1 + " L2: " + L2 + " R1: " + R1 + " R2: " + R2);
+
                 return (Math.max(L1, L2) + Math.min(R1, R2)) / 2;
             }
 
